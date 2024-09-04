@@ -55,7 +55,7 @@ The provided Python code defines a web-based Optical Character Recognition (OCR)
 - **Error Handling**: Basic error handling is implemented, but it could be expanded for robustness.
 - **Dependencies**: The code relies on several external libraries (`Flask`, `opencv-python`, `pytesseract`, `easyocr`, and `secrets`), which need to be installed and configured properly.
 
-This code provides a foundational framework for an OCR API, allowing for further customization and expansion based on specific requirements and use cases.
+
 
 # Instructions
 1. Install the required packages: Flask, opencv-python, pytesseract, and easyocr.
