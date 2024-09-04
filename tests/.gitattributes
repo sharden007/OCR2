@@ -1,0 +1,9 @@
+
+
+# Ensure specific file types have LF line endings
+*.sh text eol=lf
+*.py text eol=lf
+
+# Treat binary files as binary
+*.png binary
+*.jpg binary
